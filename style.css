@@ -1,0 +1,32 @@
+
+p {
+    color: greenyellow;
+    background-color: brown;
+    size: 5em;
+}
+p{
+    color:rgb(26, 247, 37);
+    background-color:brown;
+    font-style: italic;
+    font-size: 2em;
+}
+
+
+h3 {
+    color:chartreuse;
+    font-size: 2.5em;
+}
+
+a{
+    font-size: 2em;
+    color:rgb(22, 22, 24);
+    background-color: rgb(199, 230, 27);
+    font-style:monospace;
+}
+
+h2{
+    font-size: 2.5em;
+    color:black;
+    background-color: rgb(144, 190, 18);
+    font-style:italic;
+}
